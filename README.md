@@ -4,7 +4,7 @@
 
 Olá, visitante ! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer? 
 
-feito pela orientação do e-mail e próprio github
+*feito pela orientação do e-mail e próprio github*
 
 **Este desafio de projeto tem como objetivo treinarmos conceitos aprendidos durante os cursos de Git, Github e Formatação com Markdown.**
 
